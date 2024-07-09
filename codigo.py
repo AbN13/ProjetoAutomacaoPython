@@ -39,7 +39,7 @@ pyautogui.write("work.abn96@gmail.com")
 
 #passar para o campo senha
 pyautogui.press("tab")
-pyautogui.write("abnzika")
+pyautogui.write("abnwork")
 pyautogui.click (x=673, y=571)
 
 time.sleep(3)
